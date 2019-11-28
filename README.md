@@ -12,6 +12,9 @@ Processor Name and Number of Cores, RAM size and Hard Drive Info.
 
 **NOTE: This Project Has Now Been Updated To Use Java 11!!!**
 
+**NOTE: This project used to be merged with the [JavaUltimateTools](https://github.com/JGCompTech/JavaUltimateTools) project but, to allow for ease of development process and the ability to update each section sepeately, it made sense to create seperate libraries.
+This project has a dependancy on the JavaUltimateTools base library and, if using a package manager, will be auto-imported.**
+
 # Development
 Want to contribute? Great!
 Any help with development is greatly appreciated. If you want to add something or fix any issues please submit a pull request and if it is helpful it may be merged. Please check out our [Code of Conduct for Contributors](https://github.com/JGCompTech/JavaUltimateTools/blob/master/code-of-conduct.md).
